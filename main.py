@@ -50,3 +50,5 @@ while not end_of_game:
 
     from hangman_art import stages
     print(stages[lives])
+print("The word is" + chosen_word)
+print("Thanks for playing Hangman")
